@@ -9,14 +9,6 @@
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-v3.8-blue?style=flat-square"/></a>
     <!-- License -->
     <a href="https://github.com/Chaganti-Reddy/EVMarket-India/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Chaganti-Reddy/EVMarket-India?style=flat-square"/>
-    <!-- Stars -->
-    <a href="https://github.com/Chaganti-Reddy/"><img src="https://img.shields.io/github/stars/Chaganti-Reddy?style=flat-square"/></a>
-    <!-- Forks -->
-    <a href="https://github.com/Chaganti-Reddy/"><img src="https://img.shields.io/github/forks/Chaganti-Reddy/EVMarket-India?style=flat-square"/></a>
-    <!-- Followers -->
-    <a href="https://github.com/Chaganti-Reddy/"><img src="https://img.shields.io/github/followers/Chaganti-Reddy?style=flat-square"/></a>
-</div>
-
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -72,7 +64,6 @@ All the dependencies and required libraries are included in the file <code>requi
 1. Clone the repo
 
 ```
-$ git clone https://github.com/Chaganti-Reddy/EVMarket-India.git
 ```
 
 2. Change your directory to the cloned repo
@@ -118,22 +109,16 @@ $ python3 evmarket_india.py
 
 <img src=images/density.png width=650 height=400 ></img>
 
-**Check out the report [here](/EVMarket.pdf)**
-
 ## :clap: And it's done!
 
 Feel free to mail me for any doubts/query
-:email: chagantivenkataramireddy1@gmail.com
+:email:charanbzact9865@gmail.com
 
 ---
 
-## :raising_hand: Citation
-
-You are allowed to cite any part of the code or our dataset. You can use it in your Research Work or Project. Remember to provide credit to the Maintainer Chaganti Reddy by mentioning a link to this repository and her GitHub Profile.
 
 Follow this format:
 
-- Author's name - Chaganti Reddy
 - Date of publication or update in parentheses.
 - Title or description of document.
 - URL.
@@ -142,11 +127,5 @@ Follow this format:
 
 This study endeavoured to present EV taxonomy using an a-priori approach to categorize potential EV buyers into  ub-segments of young and educated consumers and tested  eticulously with a blended approach of multivariate and  bivariate techniques
 
-## :heart: Owner
 
-Made with :heart:&nbsp; by [Chaganti Reddy](https://github.com/Chaganti-Reddy/)
 
-## :eyes: License
-
-MIT © [Chaganti Reddy](https://github.com/Chaganti-Reddy/EVMarket-India/blob/master/LICENSE)
-</h1>
